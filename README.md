@@ -1,10 +1,10 @@
 # E_Shop
 
-A new Flutter project.
+
 
 ## Getting Started
 Developed a E_shop software using Flutter framework and firebase
-![Screenshot_20220226-151502](https://user-images.githubusercontent.com/85029908/230022005-4d2acf87-0a6d-4d34-b0fe-d5f9b96bcca6.jpg)
+<img src="https://user-images.githubusercontent.com/85029908/230022005-4d2acf87-0a6d-4d34-b0fe-d5f9b96bcca6.jpg" width="150" height="280">
 ![Screenshot_20220226-151600](https://user-images.githubusercontent.com/85029908/230022017-246b0ecc-9086-427b-b456-9d16d289e409.jpg)
 ![Screenshot_20220226-151628](https://user-images.githubusercontent.com/85029908/230022030-c582e260-98a5-4350-96b7-8a75303d0370.jpg)
 ![Screenshot_20220226-161255](https://user-images.githubusercontent.com/85029908/230022034-26e1851a-a3d7-44e1-8edc-92b1a88ecb0e.jpg)
